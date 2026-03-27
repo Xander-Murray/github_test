@@ -14,4 +14,7 @@ public class Main {
             IO.println("i = " + i);
         }
     }
+    static void test(){
+        IO.println("Test");
+    }
 }
